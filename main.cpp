@@ -2,8 +2,7 @@
 
 int main() {
 
-    const auto lang = "C++";
-    std::cout << " hello, newuu " << lang << "!\n";
+    std::cout << "Hello, NUU!" << std::endl;
 
     return 0;
 }
